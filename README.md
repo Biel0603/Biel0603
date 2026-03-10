@@ -82,13 +82,6 @@ const gabriel = {
 
 ---
 
-## 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Biel0603&theme=dracula&no-frame=true&row=1&column=6" alt="trophies"/>
-</div>
-
----
 
 ## 🌎 Vamos nos conectar!
 
