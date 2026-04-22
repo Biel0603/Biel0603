@@ -6,7 +6,7 @@
 ╚═══════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%7C+2%C2%BA+Semestre;Aprendendo+JavaScript+%26+C%23;Explorando+Front-end+%26+Back-end;Sempre+evoluindo+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%7C+3%C2%BA+Semestre;Aprendendo+JavaScript+%26+C%23;Explorando+Front-end+%26+Back-end;Sempre+evoluindo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
