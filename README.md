@@ -17,7 +17,7 @@
 ```javascript
 const gabriel = {
   curso:        "Análise e Desenvolvimento de Sistemas",
-  semestre:     "2º Semestre",
+  semestre:     "3º Semestre",
   pronomes:     "ele/dele",
   aprendendo:   ["JavaScript", "C#", "React", "Front-end", "Back-end"],
   objetivo:     "Crescer como desenvolvedor Full Stack 🚀",
