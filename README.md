@@ -1,12 +1,10 @@
 <div align="center">
 
-```
 ╔═══════════════════════════════════════════════════════╗
-║   Olá! Eu sou o Gabriel Lucas 👋                      ║
+║   Olá! Eu sou o Gabriel Lucas 👨‍💻🚀                   ║
 ╚═══════════════════════════════════════════════════════╝
-```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%7C+3%C2%BA+Semestre;Aprendendo+JavaScript+%26+C%23;Explorando+Front-end+%26+Back-end;Sempre+evoluindo+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=Estudante+de+ADS+%7C+3º+Semestre;Desenvolvedor+Full+Stack+em+formação;JavaScript+%7C+React+%7C+C%23;Criando+projetos+reais+com+API+e+Banco+de+Dados;Sempre+evoluindo+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,14 +14,28 @@
 
 ```javascript
 const gabriel = {
-  curso:        "Análise e Desenvolvimento de Sistemas",
-  semestre:     "3º Semestre",
-  pronomes:     "ele/dele",
-  aprendendo:   ["JavaScript", "C#", "React", "Front-end", "Back-end"],
-  objetivo:     "Crescer como desenvolvedor Full Stack 🚀",
-  fato:         "Sempre buscando aprender algo novo todos os dias!"
+  nome:        "Gabriel Lucas",
+  curso:       "Análise e Desenvolvimento de Sistemas",
+  semestre:    "3º Semestre (2026)",
+  foco:        "Desenvolvimento Full Stack",
+  stack:       ["JavaScript", "React", "Node.js", "C#", "MongoDB"],
+  estudando:   ["APIs REST", "Autenticação", "CRUD completo", "Projetos com banco de dados"],
+  objetivo:    "Conseguir minha primeira vaga como Dev 🚀",
+  diferencial: "Experiência com projetos reais integrados ao backend"
 };
 ```
+
+---
+
+## 🚀 Projetos em destaque
+
+💡 **Blog do Biel - Notícias**  
+✔ Sistema completo com CRUD  
+✔ Integração com JSON Server  
+✔ Login e autenticação  
+✔ Favoritos e dashboard com gráficos  
+
+📊 Tecnologias usadas: `JavaScript`, `HTML`, `CSS`, `Chart.js`, `MongoDB`
 
 ---
 
@@ -35,26 +47,29 @@ const gabriel = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biel0603&theme=dracula&border_radius=10" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biel0603&theme=dracula&hide_border=true&radius=8" alt="Activity Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biel0603&theme=dracula&border_radius=10"/>
 </div>
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### 📖 Estudando atualmente
+### 📖 Stack principal
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+### 🎨 Front-end
+<div align="center">
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
@@ -69,21 +84,20 @@ const gabriel = {
 
 ---
 
-## 📈 Progresso de Aprendizado
+## 📈 Evolução de aprendizado
 
-| Tecnologia | Nível | Status |
+| Tecnologia | Nível | Evolução |
 |---|---|---|
-| HTML/CSS | ████████░░ 80% | 🟢 Em progresso |
-| JavaScript | ██████░░░░ 60% | 🟡 Estudando |
-| C# | ████░░░░░░ 40% | 🟡 Estudando |
-| React | ███░░░░░░░ 30% | 🔵 Iniciando |
-| MongoDB | ██░░░░░░░░ 20% | 🔵 Iniciando |
-| Back-end | ███░░░░░░░ 30% | 🔵 Iniciando |
+| HTML/CSS | █████████░ 90% | 🔥 Forte |
+| JavaScript | ███████░░░ 70% | 🚀 Evoluindo |
+| React | █████░░░░░ 50% | 📈 Crescendo |
+| C# | █████░░░░░ 50% | 📈 Crescendo |
+| MongoDB | ███░░░░░░░ 30% | 🧠 Aprendendo |
+| Back-end | █████░░░░░ 50% | ⚙️ Praticando |
 
 ---
 
-
-## 🌎 Vamos nos conectar!
+## 🌐 Conecte-se comigo
 
 <div align="center">
 
@@ -91,7 +105,6 @@ const gabriel = {
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lucas-59768b344/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/glzin3115)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriellucassouzadeoliveiraluc@gmail.com)
-[![Facebook](https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/seuusuario)
 
 </div>
 
@@ -104,8 +117,8 @@ const gabriel = {
 
 ---
 
-*"A jornada de mil milhas começa com um único passo."* 🌟
+💡 *"Código bom resolve problema. Código excelente também conta uma história."*
 
-⭐ **Se curtiu meu perfil, deixa uma estrela nos meus repositórios!**
+⭐ Se curtir meus projetos, deixa uma estrela!
 
 </div>
