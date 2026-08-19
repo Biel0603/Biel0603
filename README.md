@@ -1,157 +1,74 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gabriel%20Lucas&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20em%20Formação&descAlignY=55&descSize=18" width="100%"/>
+# 👨‍💻 Gabriel Lucas
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Estudante+de+ADS+%7C+4%C2%BA+Semestre;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;JavaScript+%7C+React+%7C+C%23;Criando+projetos+reais+com+API+e+Banco+de+Dados;Sempre+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+### **Desenvolvedor Full Stack | Análise e Desenvolvimento de Sistemas**
 
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧑‍💻 Sobre mim
-
-```yaml
-Nome:        Gabriel Lucas
-Curso:       Análise e Desenvolvimento de Sistemas
-Semestre:    4º Semestre (2026)
-Foco:        Desenvolvimento Full Stack
-Objetivo:    Conseguir minha primeira vaga como Dev 🚀
-
-Stack:
-  - JavaScript
-  - React
-  - Node.js
-  - C#
-  - MongoDB
-
-Estudando:
-  - APIs REST
-  - Autenticação (JWT/OAuth)
-  - CRUD completo
-  - Projetos com banco de dados
-
-Diferencial: >
-  Experiência prática com projetos reais
-  integrados ao backend
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 GitHub Stats
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Biel0603&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true"/>
-
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Biel0603&theme=tokyonight&border_radius=12&hide_border=true"/>
-
-</td>
-</tr>
-</table>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lucas-59768b344/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Biel0603)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/glzin3115)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gabriellucassouzadeoliveiraluc@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_gabriellucasxp/)
 
 ---
 
-### 🏆 Linguagens mais usadas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biel0603&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=true"/>
-</div>
-
----
-
-### 🚀 Projeto em destaque
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-**💡 Blog do Biel — Notícias**
-
-✔️ Sistema completo com CRUD
-✔️ Integração com JSON Server
-✔️ Login e autenticação
-✔️ Favoritos e dashboard com gráficos
-
-`JavaScript` `HTML` `CSS` `Chart.js` `MongoDB`
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <i>"Transformando ideias em soluções funcionais e desenvolvendo código estruturado de ponta a ponta."</i>
+</p>
 
 </div>
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+## 📌 Sobre Mim
 
-<div align="center">
-
-**Stack principal**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Front-end**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-</div>
+- 🎓 Cursando o **4º semestre** de **Análise e Desenvolvimento de Sistemas** na PUC Minas.
+- 💻 Foco principal no desenvolvimento de aplicações **Full Stack** com foco em integrações de APIs e arquitetura limpa.
+- ⚙️ Experiência prática na criação de sistemas completos (CRUD), modelagem de dados e deploy de servidores em nuvem.
+- 🌱 Expandindo continuamente meus conhecimentos em **Python**, **Análise de Dados** e boas práticas de engenharia de software.
 
 ---
 
-### 📈 Evolução de aprendizado
+## 🛠️ Tecnologias & Ferramentas
 
-| Tecnologia | Progresso | Nível |
-|---|---|---|
-| HTML/CSS | ████████████████░░ 90% | 🔥 Forte |
-| JavaScript | ██████████████░░░░ 70% | 🚀 Evoluindo |
-| React | ███████████░░░░░░░ 55% | 📈 Crescendo |
-| C# | ███████████░░░░░░░ 55% | 📈 Crescendo |
-| Back-end | ███████████░░░░░░░ 55% | ⚙️ Praticando |
-| MongoDB | ███████░░░░░░░░░░░ 35% | 🧠 Aprendendo |
+### 🌐 Linguagens & Frameworks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,cs,nodejs,python" />
+  </a>
+</p>
+
+### 🗄️ Banco de Dados & Infraestrutura
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,git,github,vscode" />
+  </a>
+</p>
 
 ---
 
-### 🌐 Conecte-se comigo
+## 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| 🧠 **ClearMind** | Plataforma open-source com foco em rastreamento de hábitos e suporte contínuo ao usuário. | `JavaScript` `CSS` `Open Source` |
+| 📰 **Portal de Notícias** | Aplicação completa com autenticação de usuários, dashboard interativo e integração a banco. | `JavaScript` `MongoDB` `Chart.js` |
+| ☁️ **Infraestrutura Cloud** | Configuração e deploy de servidor Linux com serviços web (Apache/FTP) em nuvem. | `AWS EC2` `Linux` `DevOps` |
+| 🎨 **Interfaces Interativas** | Aplicações e landing pages responsivas com componentes dinâmicos em JavaScript vanilla. | `HTML5` `CSS3` `JavaScript` |
+
+---
+
+## 📈 Metas & Foco Atual
+
+- [x] Criação de aplicações completas com backend estruturado
+- [x] Integração de banco de dados relacionais e não-relacionais
+- [x] Configuração de ambientes de servidor e serviços em nuvem
+- [ ] Aprofundamento em automação, manipulação de dados com Python e testes automatizados
+
+---
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gabriellucasxp/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lucas-59768b344/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/glzin3115)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriellucassouzadeoliveiraluc@gmail.com)
-
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Biel0603&color=00D9FF&style=for-the-badge&label=VISITAS"/>
-</div>
-
-<br>
-
-<div align="center">
-
-💬 *"Código bom resolve problema. Código excelente também conta uma história."*
-
-⭐ Se curtir meus projetos, deixa uma estrela!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+[![Visitas](https://komarev.com/ghpvc/?username=Biel0603&color=0077B5&style=flat-square&label=Visualiza%C3%A7%C3%B5es+no+Perfil)](https://github.com/Biel0603)
 
 </div>
